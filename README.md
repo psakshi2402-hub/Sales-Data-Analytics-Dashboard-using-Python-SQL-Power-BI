@@ -1,0 +1,2 @@
+# Sales-Data-Analytics-Dashboard-using-Python-SQL-Power-BI
+Sales Data Analytics Dashboard built using Python, SQL, and Power BI to perform data cleaning, exploratory data analysis, and KPI tracking. The project highlights revenue trends, profit analysis, top-performing products, and regional sales performance through an interactive dashboard designed for business insights and strategic decision-making.
